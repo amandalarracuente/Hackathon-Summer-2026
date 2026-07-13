@@ -13,7 +13,7 @@ to noon EDT on 8/15 by editing your response to the google form or emailing the 
 2.  Teams of entirely undergraduates will be in the undergraduate
 division, else they will be in the open division.
 3. Further instructions for submitting predictions will be posted here as they become available
-4.  Competition runs through 2:59 PM EDT 22-August-2025.  The predictions each team has committed to their repository at that time will be used to determine their final score. Captains must submit their own predictions. Any use of predictions from other teams is disqualifying. Winning teams must submit their code to organizers to claim their prize.
+4.  Competition runs through 2:59 PM EDT 22-August-2026.  The predictions each team has committed to their repository at that time will be used to determine their final score. Captains must submit their own predictions. Any use of predictions from other teams is disqualifying. Winning teams must submit their code to organizers to claim their prize.
 
 # Prizes
    
